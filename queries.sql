@@ -30,3 +30,10 @@ SELECT product, COUNT(*) AS total
 FROM complaints
 GROUP BY product
 ORDER BY total DESC;
+
+-- Credit card complaints by state
+SELECT state, COUNT(*) AS total
+FROM complaints
+WHERE product = 'Credit card'
+GROUP BY state
+ORDER BY total DESC;
