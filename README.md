@@ -25,4 +25,7 @@ Data sourced from the Consumer Financial Protection Bureau (CFPB), including fie
 - Complaint volume is concentrated in a small number of states, suggesting regional disparities in consumer issues.  
 - A small number of companies account for a large share of complaints, indicating recurring service concerns.  
 - Certain financial products generate significantly more complaints, highlighting areas of consumer risk.  
-- Trends over time show changes in complaint volume, possibly reflecting shifts in consumer awareness or market conditions.  
+- Trends over time show changes in complaint volume, possibly reflecting shifts in consumer awareness or market conditions.
+-  
+## Results
+The analysis revealed that complaint activity is highly concentrated among a small number of states and companies. Certain financial products consistently generate higher complaint volumes. This indicates areas of elevated consumer risk. These findings highlight the importance of data-driven approaches in identifying patterns relevant to consumer protection and regulatory oversight.
