@@ -28,7 +28,7 @@ Data sourced from the Consumer Financial Protection Bureau (CFPB), including fie
 - Trends over time show changes in complaint volume, possibly reflecting shifts in consumer awareness or market conditions.
 
 ## Methodology
-- Data was imported into SQLite and analyzed using SQL queries. The analysis focused on aggregating complaint data by key variables such as state, company, product type, and issue category. Filtering and grouping techniques were used to identify trends and patterns across the dataset.
+Data was imported into SQLite and analyzed using SQL queries. The analysis focused on aggregating complaint data by key variables such as state, company, product type, and issue category. Filtering and grouping techniques were used to identify trends and patterns across the dataset.
 
 ## Results
 The analysis revealed that complaint activity is highly concentrated among a small number of states and companies. Certain financial products consistently generate higher complaint volumes. This indicates areas of elevated consumer risk. These findings highlight the importance of data-driven approaches in identifying patterns relevant to consumer protection and regulatory oversight.
